@@ -1,0 +1,5 @@
+st-alpha-0.8.2.diff
+st-scrollback-0.8.4.diff
+st-scrollback-mouse-20191024-a2c479c.diff
+st-scrollback-mouse-altscreen-20200416-5703aa0.diff
+st-ligatures-alpha-scrollback-20210824-0.8.4.diff
